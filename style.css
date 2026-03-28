@@ -262,7 +262,7 @@ body {
 
 .edu-card:hover {
   transform: translateY(-10px);
-  box-shadow: 6px 6px 12px rgb(255, 255, 255);
+  box-shadow: 6px 6px 12px rgb(0,188,212);
 }
 
 /* CONTACT */
